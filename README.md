@@ -29,18 +29,18 @@ A professional backend service for a music streaming platform built with **Node.
 ### API Testing (Postman)
 | Feature | Screenshot |
 | :--- | :--- |
-| **User Registration** | ![Postman Registration](./images/postman1.png) |
-| **Artist Registration** | ![Postman Registration](./images/postman2.png) |
-| **User Login** | ![Postman Login](./images/postman3.png) |
-| **Artist Login** | ![Postman Login](./images/postman4.png) |
-| **Music Upload** | ![Postman Upload](./images/postman5.png) |
+| **User Registration** | ![Postman Registration](./images/postman1.PNG) |
+| **Artist Registration** | ![Postman Registration](./images/postman2.PNG) |
+| **User Login** | ![Postman Login](./images/postman3.PNG) |
+| **Artist Login** | ![Postman Login](./images/postman4.PNG) |
+| **Music Upload** | ![Postman Upload](./images/postman5.PNG) |
 
 ### Database Structure
 | MongoDB Collection | Preview |
 | :--- | :--- |
-| **User  Schemas** | ![MongoDB Data](./images/mongodb.png) |
-| **Music Schemas** | ![MongoDB Data](./images/mongodb.png) |
-| **Album Schemas** | ![MongoDB Data](./images/mongodb.png) |
+| **User  Schemas** | ![MongoDB Data](./images/mongodb1.PNG) |
+| **Music Schemas** | ![MongoDB Data](./images/mongodb2.PNG) |
+| **Album Schemas** | ![MongoDB Data](./images/mongodb3.PNG) |
 
 
 ---
