@@ -1,4 +1,4 @@
-# 🎵 MelodyVault API
+# 🎵 SPOTIFY BACKEND API
 
 A professional backend service for a music streaming platform built with **Node.js**, **Express**, and **MongoDB**. This API allows users to register, login, and enables artists to upload tracks and create albums using automated cloud storage integration.
 
@@ -40,8 +40,5 @@ A professional backend service for a music streaming platform built with **Node.
 | :--- | :--- |
 | **User  Schemas** | ![MongoDB Data](./images/mongodb1.PNG) |
 | **Music Schemas** | ![MongoDB Data](./images/mongodb2.PNG) |
-| **Album Schemas** | ![MongoDB Data](./images/mongodb3.PNG) |
-
-
 ---
 
